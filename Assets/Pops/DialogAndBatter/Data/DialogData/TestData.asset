@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f137a9fc2cbbb3947b5dbe7756da8f32, type: 3}
+  m_Name: TestData
+  m_EditorClassIdentifier: 
+  dialogs:
+  - id: 0
+    nextId: 1
+    isOption: 0
+    name: A
+    sprite: {fileID: 0}
+    context: "\u4F60\u597D"
+  - id: 1
+    nextId: 2
+    isOption: 0
+    name: B
+    sprite: {fileID: 0}
+    context: "\u6211\u53EB\u738B\u5C0F\u660E"
+  - id: 2
+    nextId: 3
+    isOption: 0
+    name: A
+    sprite: {fileID: 0}
+    context: "\u6211\u53EB\u4E01\u771F"
+  - id: 3
+    nextId: 4
+    isOption: 0
+    name: C
+    sprite: {fileID: 21300000, guid: e818fedd086469541a2bb84baac9f477, type: 3}
+    context: "\u6211\u6709\u5934\u50CF"
+  - id: 4
+    nextId: 5
+    isOption: 0
+    name: B
+    sprite: {fileID: 0}
+    context: "\u8FD9\u662F\u5728\u6D4B\u8BD5\u6253\u5370\u957F\u6587\u672C\uFF0C\u5427\u5566\u5427\u5566\u5427\u5566"
+  - id: 5
+    nextId: 9
+    isOption: 1
+    name: 
+    sprite: {fileID: 0}
+    context: "\u9009\u9879A"
+  - id: 6
+    nextId: 10
+    isOption: 1
+    name: 
+    sprite: {fileID: 0}
+    context: "\u9009\u9879B"
+  - id: 7
+    nextId: 4
+    isOption: 1
+    name: 
+    sprite: {fileID: 0}
+    context: "\u9009\u9879C"
+  - id: 8
+    nextId: 4
+    isOption: 1
+    name: 
+    sprite: {fileID: 0}
+    context: "\u9009\u9879D"
+  - id: 9
+    nextId: 11
+    isOption: 0
+    name: B
+    sprite: {fileID: 0}
+    context: "\u8DF3\u8F6C\u5230\u4E86A"
+  - id: 10
+    nextId: 11
+    isOption: 0
+    name: B
+    sprite: {fileID: 0}
+    context: "\u8DF3\u8F6C\u5230\u4E86B"
+  - id: 11
+    nextId: 12
+    isOption: 0
+    name: B
+    sprite: {fileID: 0}
+    context: "\u8FD9\u662F\u6700\u540E\u4E00\u53E5\u8BDD"

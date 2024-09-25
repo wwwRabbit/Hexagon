@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Hexagon
+  - Soldier
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Soldier
+  - Water
+  - UI
+  - Enemy
+  - Senor
+  - Hurt
+  - Hit
+  - Border
+  - AtkCollision
+  - 
+  - Player
+  - 
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3705810989
+    locked: 0
+  - name: Batter
+    uniqueID: 1385591801
+    locked: 0
+  - name: BatterUI
+    uniqueID: 2235557177
+    locked: 0
+  - name: tiles
+    uniqueID: 396967189
+    locked: 0
+  - name: Players
+    uniqueID: 4066133125
+    locked: 0
+  - name: buff
+    uniqueID: 3212494169
+    locked: 0
+  - name: UI
+    uniqueID: 22656449
+    locked: 0
+  - name: players
+    uniqueID: 4264581509
+    locked: 0
+  - name: 
+    uniqueID: 1890487021
+    locked: 0

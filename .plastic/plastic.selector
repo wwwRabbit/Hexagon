@@ -1,0 +1,4 @@
+repository "TheHexagon@gongziwr@cloud.cn"
+  path "/"
+    smartbranch "/main/morePrefb" 
+     

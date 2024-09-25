@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7560770823606413554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6846641991868548526}
+  - component: {fileID: 6304673706622837872}
+  m_Layer: 0
+  m_Name: cardFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6846641991868548526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7560770823606413554}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.61443853, y: 0.049974397, z: 1.9064347}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6304673706622837872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7560770823606413554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fbb7e541fc7f438484cb47343303d78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NormalMove_L01_01_prefab: {fileID: 3598716481256048209, guid: b4f80fffce21b8d4aa16f8ba10da614f, type: 3}
+  NormalMove_L01_02_prefab: {fileID: 3598716481256048209, guid: b4f80fffce21b8d4aa16f8ba10da614f, type: 3}
+  NormalAdd_ZXL_prefab: {fileID: 6135737605484795365, guid: bf0de096608fa4f9f95868bf77ece14a, type: 3}
+  NormalAdd_TC_prefab: {fileID: 6135737605484795365, guid: b96c714e82b864e53be84881db76abe8, type: 3}
+  NormalADD_JS_prefab: {fileID: 6135737605484795365, guid: 991dc41e960fc407a8dc9aab30e56ab0, type: 3}
+  DoubleBuffer_prefab: {fileID: 6135737605484795365, guid: 92de22d7559994449a31fc125b3cbc43, type: 3}
+  ExVBooster_prefab: {fileID: 6135737605484795365, guid: e9227283c80254777901960d3f2768b7, type: 3}
+  NormalMove_L02_01_prefab: {fileID: 3598716481256048209, guid: b4f80fffce21b8d4aa16f8ba10da614f, type: 3}
+  NormalMove_L02_02_prefab: {fileID: 3598716481256048209, guid: b4f80fffce21b8d4aa16f8ba10da614f, type: 3}
+  NormalAdd_FD_prefab: {fileID: 6135737605484795365, guid: 20d8bccebd4e54c378fdc066acba2258, type: 3}
+  ImmuneCheckLocker_prefab: {fileID: 6135737605484795365, guid: cee41ebb2f0b84ffcb9f8b30d9627ca2, type: 3}
+  FKAllergySignal_prefab: {fileID: 6135737605484795365, guid: e91780ab7bf794ce48b805f7d5042f4d, type: 3}
+  TargetTransport_prefab: {fileID: 6135737605484795365, guid: d375a02d2b84940848793af1a87d4481, type: 3}
+  OxidativeBurst_prefab: {fileID: 6135737605484795365, guid: 1c9d7d4888087467c8b15690f1e7757f, type: 3}
+  BloodActivator_prefab: {fileID: 6135737605484795365, guid: fa6dd084afdfc453989bfe5166a054a2, type: 3}
+  NormalMove_L03_01_prefab: {fileID: 3598716481256048209, guid: b4f80fffce21b8d4aa16f8ba10da614f, type: 3}
+  NormalMove_L03_02_prefab: {fileID: 3598716481256048209, guid: b4f80fffce21b8d4aa16f8ba10da614f, type: 3}
+  NormalAdd_JXB_prefab: {fileID: 6135737605484795365, guid: 27f9f5602146546039ed526b5e8b09a1, type: 3}
+  TCGeneEditing_prefab: {fileID: 6135737605484795365, guid: 29c071c03662c49f0b6421cfd1d6e262, type: 3}
+  ZXLActivator_prefab: {fileID: 6135737605484795365, guid: d348b52e429414b419b2943ed7f6048f, type: 3}
+  BCellForcedSplit_prefab: {fileID: 6135737605484795365, guid: 7e9e27daf96f846c7bf73c372084b406, type: 3}
+  AntiBodyModifier_prefab: {fileID: 6135737605484795365, guid: 145d721e8030e44f5953285e497e01f4, type: 3}
+  CellBindingCapsule_prefab: {fileID: 6135737605484795365, guid: 7736b202b08d04ee2ae616128d4814d3, type: 3}
